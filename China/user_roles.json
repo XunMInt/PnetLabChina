@@ -1,0 +1,10 @@
+{
+  "user_roles" : "角色",
+  "user_role_id" : "角色Id",
+  "user_role_name" : "角色名",
+  "user_role_workspace" : "角色工作区",
+  "user_role_note" : "角色规范",
+  "user_role_ram" : "RAM限制",
+  "user_role_cpu" : "CPU限制",
+  "user_role_hdd" : "HDD限制"
+}

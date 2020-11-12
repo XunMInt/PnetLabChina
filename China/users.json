@@ -1,0 +1,25 @@
+{
+  "users" : "用户",
+  "username" : "用户名",
+  "cookie" : "Cookie",
+  "email" : "电子邮件",
+  "expiration" : "截至日期",
+  "name" : "名字",
+  "password" : "密码",
+  "session" : "登录",
+  "ip" : "IP地址",
+  "role" : "角色",
+  "folder" : "当前位置",
+  "html5" : "Html5",
+  "license" : "许可证",
+  "online_time" : "在线时间",
+  "lab_session" : "实验会话",
+  
+  "offline" : "模式",
+  "active_time" : "活动时间",
+  "expired_time" : "过期时间",
+  "user_status" : "状态",
+  "note" : "注意",
+  "user_workspace" : "工作区"
+
+}

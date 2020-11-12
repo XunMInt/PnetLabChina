@@ -1,0 +1,29 @@
+{
+"ERROR_ARRAY": "{data} 必须是数组",
+"ERROR_FORMAT": "{data} 格式错误",
+"ERROR_UNDEFINE": "{data} 未定义",
+"ERROR_DB": "数据库错误",
+"ERROR_DUPLICATE": "{data} 存在",
+"ERROR_AUTHEN": "{data}",
+"ERROR_PERMISSION": "不允许.\n{data}",
+"ERROR": "{data}",
+"error_lab_running": "实验 {data} 正在运行, 请先销毁所有会话",
+"error_folder_workspace": "文件夹 {folder} 是 {role} 角色的工作区.",
+"error_folder_running": "文件夹 {data} 中某些文件正在运行. 请先销毁所有会话",
+"error_lab_timeout": "你的帐号已经注销了。检查你的互联网, update Time of the Box and login to only 1 Box at a time. Login again to continue.",
+"error_lab_permission": "您没有权限使用此实验室。请到实验室商店获取实验室",
+"error_lab_expired": "实验时间已经结束。去实验室商店获得更多的使用时间",
+"No License": "没有许可",
+"This Lab is for the ONLINE mode only": "本实验室仅供联机模式使用",
+"You do not have access": "你没有访问权限",
+"error_user_unactive": "您还不能登录，您的帐户将从以下日期生效：{data}",
+"error_user_expired": "您无法登录，您的帐户已从以下日期过期：{data}",
+"Password is wrong": "密码错误",
+"Can not get data from server": "无法从服务器获取数据",
+"error_uploadsize_limit": "一次上传不到 {data} 个文件",
+"error_md5_fail": "Md5检查失败。 下载 {data} 在尝试三次后失败"
+
+
+
+
+}

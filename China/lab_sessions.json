@@ -1,0 +1,9 @@
+{
+"lab_sessions" : "会话",
+"lab_session_id" : "会话名",
+"lab_session_lid" : "会话Lid",
+"lab_session_pod" : "会话用户",
+"lab_session_joined" : "加入成员",
+"lab_session_path" : "会话实验路径",
+"lab_session_running": "运行设备"
+}
