@@ -19,10 +19,10 @@
 步骤三：
 
 ```
-将China文件覆盖进去。
+将China文件上传并覆盖进去。
 ```
 
-最后刷新PnetLab即可
+最后将PnetLab的语言设置为China即可
 
 
 
