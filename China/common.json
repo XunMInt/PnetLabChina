@@ -1,6 +1,6 @@
 {
     "Workspace": "工作区",
-    "Name": "名字",
+    "Name": "名称",
     "Size": "大小",
     "Progress": "进度",
     "Status": "状态",
@@ -31,11 +31,9 @@
     "Port": "端口",
     "User Name": "用户名",
     "Password": "密码",
-    
     "Default Language": "默认语言",
     "Default": "默认",
     "Profile": "资料",
-
     "Edit": "编辑",
     "Delete": "删除",
     "Open": "打开",
@@ -63,7 +61,7 @@
     "Edit network": "编辑网络",
     "Number of networks to add": "要添加的网络数量",
     "ID": "ID",
-    "Name/Prefix": "名字/前缀",
+    "Name/Prefix": "名称/前缀",
     "Type": "类型",
     "Left": "左",
     "Top": "上",
@@ -73,7 +71,6 @@
     "Template": "模板",
     "Show all unsupport": "显示所有",
     "Number of nodes to add": "要添加的设备数量",
-
     "Export CFG": "导出配置",
     "Duplicate": "复制",
     "Send To Back": "下一层",
@@ -82,10 +79,8 @@
     "3D Rotate": "3D 旋转",
     "Add a new folder": "添加新文件夹",
     "Rename current folder": "重命名当前文件夹",
-
     "Set original size": "设置原始大小",
     "Set autosize": "设置自动大小",
-
     "Node": "设备",
     "Network": "网络",
     "Picture": "图片",
@@ -115,7 +110,7 @@
     "port_for_management": "{port} 用于管理",
     "connected to": "连接到",
     "Destination ID": "目的站 ID",
-    "Destination Name": "目的地 名字",
+    "Destination Name": "目的地 名称",
     "Upload Config File": "上传配置文件",
     "add_connection_title": "'添加 {src} 和 {dest}之间的连接",
     "Starting export, please wait": "正在启动导出，请稍候",
@@ -124,7 +119,6 @@
     "started": "启动",
     "stopped": "停止",
     "Empty Selection": "空选择",
-
     "Start Selected": "启动选定项",
     "Stop Selected": "停止选定项",
     "Wipe Selected": "清除选定项的配置",
@@ -169,7 +163,6 @@
     "NVRAM": "NVRAM",
     "Eth": "ETH",
     "Ser": "Ser",
-    
     "del_network_alert": "确定删除此网络？",
     "del_node_alert": "确定要删除此设备？",
     "del_select_nodes_alert": "确定删除所选设备？",
@@ -184,7 +177,6 @@
     "delete_text_alert": "确定删除此文本？",
     "delete_shape_alert": "确定删除此形状？",
     "wipe_get_effect_alert": "清除设备的配置并生效",
-
     "Starting": "启动中",
     "Export Selected": "导出选定项",
     "Export all": "全部导出",
@@ -202,7 +194,6 @@
     "device_existed_alert": "此设备已存在于您的box中，是否要覆盖？",
     "file_existed_alert": "下列文件已存在: {data}. 是否要覆盖？",
     "docker_commit_alert": "您不能提交原始映像，因为原始映像是从Docker.io下载的。而是需要创建一个快照",
-
     "Added to PNET": "添加到PNET",
     "New Device": "新设备",
     "Guide": "指南",
@@ -220,7 +211,7 @@
     "Open your Lab": "打开实验",
     "Public your lab": "共享你的实验",
     "Go to Labs page": "转到实验界面",
-    "Please select UNL file" : "选择UNL文件",
+    "Please select UNL file": "选择UNL文件",
     "Please fill": "请填写",
     "lab_approve_message": "要共享这个实验，需要得到管理员的批准",
     "lab_existed_message": "商店里有这个实验",
@@ -230,7 +221,6 @@
     "Add Dependence": "增加依赖性",
     "Version": "版本",
     "additional_packages_des": "选择实验需要运行的文件，它通常位于目录中",
-
     "Running IOL Nodes": "运行IOL设备",
     "Running Dynamips Nodes": "运行Dynamips设备",
     "Running Qemu Nodes": "运行Qemu设备",
@@ -274,7 +264,6 @@
     "Emails": "电子邮件",
     "email_des": "插入允许访问此选项的电子邮件。使用特殊字符分隔",
     "Edit Role": "编辑角色",
-
     "commit_hdd_alert": "这个操作将会占用 {size}MB 的硬盘，是否继续操作?",
     "Commit Successfully": "提交成功",
     "Commit Node": "提交设备",
@@ -287,55 +276,55 @@
     "New Device Name": "新设备名称",
     "New Snapshot Name": "新快照名称",
     "Commit": "提交",
-    "State": "国家", 
-    "Attach Command": "附加命令", 
-    "Terminal": "终端", 
-    "Device Icons": "设备图标", 
-    "Stub": "Stub", 
+    "State": "国家",
+    "Attach Command": "附加命令",
+    "Terminal": "终端",
+    "Device Icons": "设备图标",
+    "Stub": "Stub",
     "Curviness": "曲线",
-    "Round": "圆形", 
+    "Round": "圆形",
     "Mid Point": "中心点",
     "Style": "风格",
     "Start Symbol": "初始符号",
-    "End Symbol": "结束符号", 
+    "End Symbol": "结束符号",
     "Label": "标签",
-    "Lock Lab": "锁定实验", 
+    "Lock Lab": "锁定实验",
     "Unlock Lab": "解锁实验",
     "Password not match": "密码不匹配",
     "Lock": "锁",
     "Unlock": "解锁",
-    "Clear Password": "清除密码", 
-    "has joined this Lab": "加入这个实验", 
-    "has left this Lab": "离开这个实验", 
-    "Joined Members": "加入成员", 
+    "Clear Password": "清除密码",
+    "has joined this Lab": "加入这个实验",
+    "has left this Lab": "离开这个实验",
+    "Joined Members": "加入成员",
     "Select configuration": "选择配置",
     "Start-up config": "启动配置",
     "Start-up Config Name": "启动配置名称",
-    "Edit Start-up Config Name": "编辑启动配置名称", 
-    "Import Start-up Config": "导入启动配置", 
+    "Edit Start-up Config Name": "编辑启动配置名称",
+    "Import Start-up Config": "导入启动配置",
     "Please fill Start-up config name": "请填写启动配置名称",
-    "Please select Start-up config files": "请选择启动配置文件", 
+    "Please select Start-up config files": "请选择启动配置文件",
     "Make transparent": "设置透明",
     "Open in new tab": "在新标签页中打开",
     "Continue": "继续",
     "Finish": "结束",
     "Physical": "物理",
-    "Workbook Name": "工作表名称", 
-    "Workbook Type": "工作表类型", 
+    "Workbook Name": "工作表名称",
+    "Workbook Type": "工作表类型",
     "Promote": "推广",
     "Demote": "降级",
-    "wb_limit_pages": "工作表不超过100页", 
+    "wb_limit_pages": "工作表不超过100页",
     "No page": "没有页面",
     "wb_save_alert": "您还没有保存工作表。它会丢失的。是否继续？",
-    "Save workbook successfully": "工作表保存成功", 
+    "Save workbook successfully": "工作表保存成功",
     "wb_leave_alert": "如果保存前离开，所做的更改将丢失",
-    "Upload PDF file": "上传PDF文件", 
-    "wb_size_alert": "文件大小必须小于50M。较大的工作表会降低实验速度", 
+    "Upload PDF file": "上传PDF文件",
+    "wb_size_alert": "文件大小必须小于50M。较大的工作表会降低实验速度",
     "No Preview": "没有预览",
     "Add new Lab": "建新实验",
     "Author": "作者",
     "Config Script Timeout": "配置脚本超时",
-    "Seconds": "秒", 
+    "Seconds": "秒",
     "Countdown Timer": "倒计时",
     "who_open_lab": "谁可以打开这个实验?",
     "who_join_lab": "谁可以加入这个实验?",
@@ -345,10 +334,9 @@
     "Admin and Special users": "管理员和特殊用户",
     "Search Labs": "搜索实验 / 汉化来自：XunM & Meteor",
     "All": "全部",
-    "No device available": "没有可用设备", 
-    "Running Lab Sessions": "正在运行的实验", 
+    "No device available": "没有可用设备",
+    "Running Lab Sessions": "正在运行的实验",
     "Hide Idle Labs": "隐藏闲置实验",
-
     "Step 01": "步骤一",
     "Step 02": "步骤二",
     "Step 03": "步骤三",
@@ -360,64 +348,62 @@
     "No Lab Found": "找不到实验",
     "New Labs": "新实验",
     "Load More": "加载更多",
-    "New Product": "新产品", 
-    "Your Labs": "你的实验", 
+    "New Product": "新产品",
+    "Your Labs": "你的实验",
     "Unpublic": "公开",
-    "Waiting for approve": "等待批准", 
+    "Waiting for approve": "等待批准",
     "Denied by Admin": "被管理员拒绝",
-    "Publiced": "出版", 
-    "Version Unavailable": "版本不可用", 
+    "Publiced": "出版",
+    "Version Unavailable": "版本不可用",
     "FeedBack": "反馈",
     "Versions": "版本",
-    "del_alert_title" : "是否要删除？",
+    "del_alert_title": "是否要删除？",
     "del_alert_text": "你不能恢复这个！",
-    "Defaut Mode": "默认模式", 
+    "Defaut Mode": "默认模式",
     "ONLINE mode is enabled": "已启用联机模式",
     "ONLINE mode is disabled": "已禁用联机模式",
     "online_mode_enable_alert": "联机模式已成功打开，你现在需要注册并登录到PNETLa，第一个登录到PNETLab的在线帐户将成为所有者。",
     "Old Pass": "旧通行证",
     "New Pass": "新通行证",
     "Retype Pass": "重置通行证",
-    "Lab Name": "实验名称", 
-    "Lab ID": "实验ID", 
+    "Lab Name": "实验名称",
+    "Lab ID": "实验ID",
     "Desciption": "说明",
-    "Select to Download": "选中下载", 
-    "Login by Online Account": "通过在线账号登录", 
+    "Select to Download": "选中下载",
+    "Login by Online Account": "通过在线账号登录",
     "Default account": "默认账户",
     "Apply your change first": "请先应用或取消",
     "Quality": "特性",
-    "New Folder":"新建文件夹",
-    "Period":"上一个",
-    "Lab Preview":"实验预览",
-    "Login":"登录"
+    "New Folder": "新建文件夹",
+    "Period": "上一个",
+    "Lab Preview": "实验预览",
+    "Login": "登录",
 
 
-
-    
-
-
-    
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-    
-   
-
-
-
-
-
-
+    "ethernet": "以太网",
+    "firstmac": "First MAC",
+    "qemu_version": "Qemu 版本",
+    "qemu_arch": "Qemu Arch",
+    "qemu_nic": "Qemu 网卡",
+    "qemu_options": "Qemu 选项",
+    "serial": "串行",
+    "config": "配置",
+    "delay": "延迟",
+    "console": "主控制台",
+    "console_2nd": "辅助控制台",
+    "map_port": "主映射端口",
+    "map_port_2nd": "辅助映射端口",
+    "docker_options": "Docker 选项",
+    "dynamips_options": "Dynamips 选项",
+    "config_script": "配置脚本",
+    "cpulimit": "CPU 限制",
+    "idlepc": "闲置-PC",
+    "ram": "RAM",
+    "nvram": "NVRAM",
+    "Undo Position": "撤销",
+    "Redo Position": "重置",
+    "Do you want to delete Text?": "是否要删除文本？",
+    "Do you want to delete selected Texts?": "是否要删除选定的文本？",
+    "Do you want to delete Network?": "是否要删除网络？",
+    "Do you want to delete selected Network?": "是否要删除选定的网络？"
 }
