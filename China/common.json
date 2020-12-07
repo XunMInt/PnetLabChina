@@ -276,11 +276,11 @@
     "New Device Name": "新设备名称",
     "New Snapshot Name": "新快照名称",
     "Commit": "提交",
-    "State": "国家",
+    "State": "状态",
     "Attach Command": "附加命令",
     "Terminal": "终端",
     "Device Icons": "设备图标",
-    "Stub": "Stub",
+    "Stub": "曲率",
     "Curviness": "曲线",
     "Round": "圆形",
     "Mid Point": "中心点",
@@ -381,7 +381,7 @@
 
 
     "ethernet": "以太网",
-    "firstmac": "First MAC",
+    "firstmac": "主MAC地址",
     "qemu_version": "Qemu 版本",
     "qemu_arch": "Qemu Arch",
     "qemu_nic": "Qemu 网卡",
