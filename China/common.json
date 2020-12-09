@@ -405,5 +405,7 @@
     "Do you want to delete Text?": "是否要删除文本？",
     "Do you want to delete selected Texts?": "是否要删除选定的文本？",
     "Do you want to delete Network?": "是否要删除网络？",
-    "Do you want to delete selected Network?": "是否要删除选定的网络？"
+    "Do you want to delete selected Network?": "是否要删除选定的网络？",
+
+    "RENAME_LAB":"重命名实验"
 }
