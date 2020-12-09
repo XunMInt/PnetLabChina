@@ -362,7 +362,7 @@
     "Defaut Mode": "默认模式",
     "ONLINE mode is enabled": "已启用联机模式",
     "ONLINE mode is disabled": "已禁用联机模式",
-    "online_mode_enable_alert": "联机模式已成功打开，你现在需要注册并登录到PNETLa，第一个登录到PNETLab的在线帐户将成为所有者。",
+    "online_mode_enable_alert": "联机模式已成功打开，你现在需要注册并登录到PNETLab，第一个登录到PNETLab的在线帐户将成为所有者。",
     "Old Pass": "旧通行证",
     "New Pass": "新通行证",
     "Retype Pass": "重置通行证",
