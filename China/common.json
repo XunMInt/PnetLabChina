@@ -408,4 +408,8 @@
     "Do you want to delete selected Network?": "是否要删除选定的网络？",
 
     "RENAME_LAB":"重命名实验"
+    
+     "max_running_node_limit": "所有实验中最多打开{data}个设备",
+    "max_running_nodelab_limit": "你只能为每个实验室启用最多{data}设备"
+    
 }
