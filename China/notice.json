@@ -9,8 +9,8 @@
   "notice_content" : "目录",
   "notice_variable" : "变量",
   "notice_seen" : "请注意看",
-  "notice_level" : "标准",
-  "notice_action" : "活动",
+  "notice_level" : "级别",
+  "notice_action" : "行动",
   "Mark as read": "标记为已读",
   "Read more": "阅读更多"
 }

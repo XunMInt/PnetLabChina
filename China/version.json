@@ -1,9 +1,9 @@
 {
     "versions" : "版本",
     "version_id" : "ID",
-    "version_name" : "名字",
+    "version_name" : "名称",
     "version_status" : "状态",
-    "version_status_admin" : "状态管理员",
+    "version_status_admin" : "状态管理",
     "version_labId" : "实验名",
     "version_unl" : "UNL",
     "version_path": "路径",
@@ -11,5 +11,5 @@
     "version_time" : "时间",
     "version_note" : "注意",
     "version_feedback" : "反馈",
-    "version_node_des": "发行说明。Instructing your users to integrate your lab into Box。 此内容不会在商店中发布。"
+    "version_node_des": "发布说明.将指导你的用户将拓扑整合到Box内,此内容不会发布至PNETLab商店"
   }

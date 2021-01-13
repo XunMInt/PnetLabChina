@@ -1,7 +1,7 @@
 {
     "Main": "主页",
     "Running Labs": "运行中的实验",
-    "Accounts": "账号",
+    "Accounts": "账户",
     "Users Management": "用户管理",
     "Roles Management": "角色管理",
     "System": "系统",
@@ -10,7 +10,7 @@
     "System Setting": "系统设置",
     "Versions": "版本",
     "Download Labs": "下载实验",
-    "Sell Your Labs": "出售你的实验",
-    "Devices": "设备"
+    "Sell Your Labs": "出售实验",
+    "Devices": "获取设备"
 
 }

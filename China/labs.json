@@ -2,12 +2,12 @@
   "labs": "实验",
   "lab_id": "Id",
   "lab_name": "名称",
-  "lab_name_des": "存储的实验室名称",
+  "lab_name_des": "PNETLab商店内的拓扑名称",
   "lab_des": "说明",
   "lab_img": "镜像",
   "lab_price": "价格",
   "lab_uid": "Uid",
-  "lab_uname": "用户名称",
+  "lab_uname": "用户名",
   "lab_status": "状态",
   "lab_status_admin": "管理员状态",
   "lab_status_version": "版本状态",
@@ -19,11 +19,11 @@
   "lab_subject_des": "选择实验室主题将帮助用户轻松找到您的实验室",
   "lab_update": "更新",
   "lab_last_version": "最新版本",
-  "lab_open_des": "当你选择的时候 \"打开你的实验\"。你的实验将不加密发布。 用户有足够的权限使用你的实验。 (可以在脱机模式下使用)",
+  "lab_open_des": "当你选择 '打开拓扑'时,你的拓扑将在未加密的情况下发布.其他用户将会有充分的权限按照他们的意愿使用你的拓扑(可在离线模式下使用)",
   "lab_price_des": "你的用户必须用美元支付",
   "lab_unit_des": "实验室的使用时长从购买当天开始计算，以天为单位。如果你的实验室没有限制，设置为0",
   "lab_des_des": "简要说明",
-  "lab_article_des": "写些东西给你的实验。这篇文章将在商店上发表"
+  "lab_article_des": "写些东西给你的实验。这篇文章将在PNETLab商店上发表"
 
 
 }

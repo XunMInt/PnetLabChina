@@ -4,7 +4,7 @@
   "cookie" : "Cookie",
   "email" : "电子邮件",
   "expiration" : "截至日期",
-  "name" : "名字",
+  "name" : "名称",
   "password" : "密码",
   "session" : "登录",
   "ip" : "IP地址",

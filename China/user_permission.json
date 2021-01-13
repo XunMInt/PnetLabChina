@@ -1,20 +1,18 @@
 {
-  "user_permission" : "用户权限",
-  "user_per_id" : "Per Id",
-  "user_per_role" : "每个角色",
-  "user_per_name" : "Per Name",
-
-  "DELETE_FOLDER": "删除文件架",
-  "ADD_FOLDER": "添加新文件",
-  "EDIT_FOLDER": "重命名或移动文件夹",
+  "user_permission": "用户权限",
+  "user_per_id": "每个Id",
+  "user_per_role": "每个角色",
+  "user_per_name": "每个名称",
+  "DELETE_FOLDER": "删除目录",
+  "ADD_FOLDER": "新建目录",
+  "EDIT_FOLDER": "重命名或移动目录",
   "DELETE_LAB": "删除实验",
-  "ADD_LAB": "新实验",
+  "ADD_LAB": "新建实验",
   "IMPORT_LAB": "导入实验",
   "EXPORT_LAB": "导出实验",
   "MOVE_LAB": "移动实验",
   "CLONE_LAB": "复制实验",
-
   "JOIN_LAB": "进入实验",
-  "OPEN_LAB": "打开实验"
-
+  "OPEN_LAB": "打开实验",
+  "RENAME_LAB": "重命名实验"
 }
