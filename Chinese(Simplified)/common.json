@@ -104,7 +104,7 @@
     "Destroy Lab": "销毁实验",
     "System Status": "系统状态",
     "Background": "背景",
-    "Workbook": "工作手册",
+    "Workbook": "工作簿",
     "Note": "备注",
     "serial_port_unsupport_hot_plug": "串行端口不支持热插拔",
     "port_for_management": "{port} 是管理端口",
@@ -400,8 +400,8 @@
     "config_script": "配置脚本",
     "cpulimit": "CPU 限制",
     "idlepc": "闲置-PC",
-    "ram": "RAM",
-    "nvram": "NVRAM",
+    "ram": "内存",
+    "nvram": "硬盘",
     "Undo Position": "撤销",
     "Redo Position": "重置",
     "Do you want to delete Text?": "是否删除此文本？",
@@ -414,7 +414,7 @@
 
     "Font Size":"字体大小",
     "image": "镜像",
-    "description": "描述",
+    "description": "说明",
     "icon": "图标",
     "uuid": "UUID",
     "cpu": "CPU",
@@ -425,5 +425,25 @@
     "telnet": "Telnet",
     "rdp": "RDP",
     "ssh": "SSH",
-    "vnc": "VNC"
+    "vnc": "VNC",
+
+    "Services":"服务器",
+    "Restart Web Service":"重启Web服务器",
+    "Restart Database Service":"重启数据库服务器",
+    "Restart HTML Console":"重启HTML控制台",
+    "Restart Docker Service":"重启Docker服务器",
+    "Restart NAT Cloud":"重启NAT Cloud",
+
+    "Suspend":"暂停",
+    "Up":"恢复",
+
+    "Config Nodes":"配置设备",
+
+    "Delay":"延迟",
+    "Jitter":"抖动",
+    "Bandwidth":"带宽",
+    "Loss":"丢包率",
+
+    "Apply":"应用"
+
 }
