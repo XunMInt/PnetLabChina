@@ -20,6 +20,9 @@
   "expired_time" : "过期时间",
   "user_status" : "状态",
   "note" : "注意",
-  "user_workspace" : "工作区"
+  "user_workspace" : "工作区",
+
+  "max_node" : "最多运行设备数",
+  "max_node_lab" : "每个实验最多运行设备数"
 
 }
