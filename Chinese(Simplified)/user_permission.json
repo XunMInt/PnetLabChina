@@ -14,5 +14,7 @@
   "CLONE_LAB": "复制实验",
   "JOIN_LAB": "进入实验",
   "OPEN_LAB": "打开实验",
-  "RENAME_LAB": "重命名实验"
+  "RENAME_LAB": "重命名实验",
+  "JOIN_LAB": "加入实验会话",
+  "OPEN_LAB": "打开新的实验会话"
 }
