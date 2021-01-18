@@ -20,7 +20,7 @@
     "Stop All Nodes": "停止所有设备",
     "Fix Permission": "修复权限",
     "Reboot": "重启",
-    "Shutdown": "关闭",
+    "Shutdown": "关机",
     "Docker Wireshark Only": "仅限Docker Wireshark使用",
     "Default Console": "默认控制台",
     "Auto": "自动",
@@ -435,7 +435,7 @@
     "Restart NAT Cloud":"重启NAT Cloud",
 
     "Suspend":"暂停",
-    "Up":"恢复",
+    "Resume":"恢复",
 
     "Config Nodes":"配置设备",
 
@@ -444,6 +444,10 @@
     "Bandwidth":"带宽",
     "Loss":"丢包率",
 
-    "Apply":"应用"
+    "Apply":"应用",
 
+    "keepalive": "一层存活检测",
+    "iol_options": "IOL选项",
+
+    "restart_get_effect_alert":"重启设备生效"
 }
