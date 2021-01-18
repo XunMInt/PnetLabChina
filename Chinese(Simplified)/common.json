@@ -449,5 +449,5 @@
     "keepalive": "一层存活检测",
     "iol_options": "IOL选项",
 
-    "restart_get_effect_alert":"重启设备生效"
+    "restart_get_effect_alert":"重启设备后生效"
 }
