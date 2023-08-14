@@ -451,8 +451,8 @@
 
 "restart_get_effect_alert":"重启设备后生效",
 
-"Undo Position": "撤消位置",
-"Redo Position": "重做位置",
+"Undo Position": "撤消定位",
+"Redo Position": "重做定位",
 "Do you want to delete Text?": "您是否要删除文本？",
 "Do you want to delete selected Texts?": "您是否要删除选定的文本？",
 "Do you want to delete Network?": "您是否要删除网络？",
@@ -461,7 +461,6 @@
 "max_running_node_limit": "您只能在所有实验室中打开最多 {data} 个节点",
 "max_running_nodelab_limit": "您每个实验室只能打开最多 {data} 个节点",
 
-"keepalive": "第1层保持活动",
 "iol_options": "IOL选项",
 "first_nic": "首个NIC",
 "script_timeout": "脚本超时",
@@ -472,5 +471,19 @@
 "eth3_dhcp": "Eth3 DHCP",
 "eth3_ip": "Eth3 静态IP",
 "default_route": "默认路由",
-"unlocked": "已解锁"
+"unlocked": "已解锁",
+
+"Management Interface setting":"管理接口",
+"Enable ipv6":"启用 ipv6",
+"CPU/Memory settings":"CPU/Memory 设置",
+"Numa balancing":"Numa balancing",
+"CPU 0,1 Reserved for Services":"保留CPU 0,1用于系统服务",
+"Hide Critical Clouds for users":"为用户隐藏相关云",
+"Show NAT cloud":"显示NAT云",
+"Hide NAT cloud":"隐藏NAT云",
+"Pnet Clouds":"Pnet 云",
+"Html 5 terminal setting":"Html5控制台设置",
+"Font name":"字体",
+"Text Color":"字体颜色",
+"Background Color":"背景颜色"
 }
