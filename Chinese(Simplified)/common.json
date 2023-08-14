@@ -485,5 +485,6 @@
 "Html 5 terminal setting":"Html5控制台设置",
 "Font name":"字体",
 "Text Color":"字体颜色",
-"Background Color":"背景颜色"
+"Background Color":"背景颜色",
+"Initial_startup_config":"初始化启动配置"
 }
