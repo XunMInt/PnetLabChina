@@ -266,7 +266,7 @@
 "Edit Role": "编辑角色",
 "commit_hdd_alert": "这个操作将会占用 {size}MB 的硬盘，是否继续操作?",
 "Commit Successfully": "提交成功",
-"Commit Node": "提交设备",
+"Commit Node": "设备快照",
 "Commit to original Image": "提交原始镜像",
 "commit_origin_des": "将此设备的所有更改应用在原始镜像上",
 "Take Snapshot from original Image": "从原始镜像中获取快照",
@@ -451,8 +451,8 @@
 
 "restart_get_effect_alert":"重启设备后生效",
 
-"Undo Position": "撤消定位",
-"Redo Position": "重做定位",
+"Undo Position": "撤消",
+"Redo Position": "重置",
 "Do you want to delete Text?": "您是否要删除文本？",
 "Do you want to delete selected Texts?": "您是否要删除选定的文本？",
 "Do you want to delete Network?": "您是否要删除网络？",
@@ -486,5 +486,7 @@
 "Font name":"字体",
 "Text Color":"字体颜色",
 "Background Color":"背景颜色",
-"Initial_startup_config":"初始化启动配置"
+"Initial_startup_config":"初始化启动配置",
+"Pause/Resume all_links":"（暂停/恢复）链路",
+"eth_format":"eth接口格式"
 }
